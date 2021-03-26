@@ -79,7 +79,7 @@ Configuration file: C:/..../resume.io/_config.yml
 
 ## 在线预览
 
-[gejin--个人简历模板]()
+[gejin--个人简历模板](https://enticejin.github.io/resume.io/)
 
 
 
